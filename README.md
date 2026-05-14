@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Saikiran</h1>
 
 <h3 align="center">
-🚀 Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-# 💫 About Me
+# About Me
 
 - ☁️ Passionate about Cloud & DevOps Engineering
 - ⚙️ Working with AWS, Docker, Kubernetes & Terraform
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=saikiransarvepalli0703&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```yaml
 - AWS Cloud
