@@ -67,7 +67,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
+## 👀 Profile Views
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikiransarvepalli0703&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 ## 📌 Focus
 
 ```yaml
